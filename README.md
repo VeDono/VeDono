@@ -12,6 +12,6 @@ I'm a developer with a big desire to learn and build something new! 👀
 * 🌍  I'm based in Kharkiv, Ukraine
 * ⚡  I'm delighted to see you in my GitHub profile!
 * 🤝  I'm open to cooperation and collaboration
-* 🧠 I know Node.js, React.js, JS, TypeScript, and more which you can see in my [CV](https://flowcv.com/resume/wkskfppgs0) 😅
+* 🧠 I know Node.js, React.js, JS, TypeScript, and more which you can see in my [CV](https://bit.ly/e_sergey_cv) 😅
 * 📸 One of my hobbies is virtual photography, which you can discover on my [Instagram](https://www.instagram.com/mrleondono)
 * 🎮 If we are in one boat, there is my [Steam](https://steamcommunity.com/id/mrleondono/) ♿😶‍🌫️
