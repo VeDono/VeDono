@@ -1,7 +1,7 @@
 Hi 👋 My name is Sergey Emelyanov
 ========================================
 
-👩🏻‍💻 Fullstack developer
+👩🏻‍💻 Front-end developer
 -------------------------
 
 I'm a developer with a big desire to learn and build something new! 👀
